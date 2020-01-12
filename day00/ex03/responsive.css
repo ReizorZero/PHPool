@@ -1,0 +1,52 @@
+table {
+    float: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+.atomic-weight {
+    margin: 2px 2px 10px 30px;
+    text-align: right;
+}
+
+.order-number {
+    margin: 2px 10px 2px 2px;
+    text-align: left;
+}
+
+.green-bg {
+    background-color: yellowgreen;
+}
+
+.red-bg {
+    background-color: crimson;
+}
+
+.yellow-bg {
+    background-color: yellow;
+}
+
+.peach-bg {
+    background-color: peachpuff;
+}
+
+.grey-bg {
+    background-color: grey;
+}
+
+.blue-bg {
+    background-color: blue;
+}
+
+img {
+    margin-left: 100px;
+    width: 30%;
+    height: auto;
+}
